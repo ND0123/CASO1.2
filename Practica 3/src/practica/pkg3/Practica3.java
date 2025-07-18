@@ -29,7 +29,7 @@ public class Practica3 {
     inventario.cargarProductos();
     inventario.mostrarProductos();
     
-    JOptionPane.showMessageDialog(null, "La ganancia total esperada es: " + inventario.calcularGananciaTotal());
+    JOptionPane.showMessageDialog(null, "La ganancia total esperada es ?=????: " + inventario.calcularGananciaTotal());
         
     }
     
